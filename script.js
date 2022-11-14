@@ -19,10 +19,10 @@ $("#video-wrap").css({
 });
 
 $('#video').videoBG({
-    mp4:'assets/bg.mp4',
-    ogv:'assets/bg.ogv',
-    webm:'assets/bg.webm',
-    poster:'assets/poster.jpg',
+    mp4:'bg.mp4',
+    ogv:'bg.ogv',
+    webm:'bg.webm',
+    poster:'poster.jpg',
     scale:true,
     zIndex:0,
     height: vidHeight
